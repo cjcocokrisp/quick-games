@@ -1,0 +1,11 @@
+# Game Options
+WIDTH = 850
+HEIGHT = 700
+CIRCLE_RADIUS = 46.4285714286
+
+# Colors
+BLUE = (0, 0, 255)
+WHITE = (255, 255, 255)
+RED = (255, 0, 0)
+YELLOW = (255, 255, 0)
+BLACK = (0, 0, 0)
